@@ -6,10 +6,6 @@
 👨🏻‍🎓 Studied Software Engineering at Manisa Celal Bayar University<br/>
 💭 Currently learning about Mobile App Development!<br/>
 
-<!-- Github stats from https:/github/com/amuraghazra/github-readme-stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElirKvothe)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
