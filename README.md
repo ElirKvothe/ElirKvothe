@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Level 1: Simple bio and stats -->
 
-<!--
-**ElirKvothe/ElirKvothe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Alperen!
 
-Here are some ideas to get you started:
+👨🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👨🏻‍🎓 Studied Software Engineering at Manisa Celal Bayar University<br/>
+💭 Currently learning about Mobile App Development!<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Github stats from https:/github/com/amuraghazra/github-readme-stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElirKvothe)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
